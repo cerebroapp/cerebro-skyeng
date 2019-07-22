@@ -1,6 +1,6 @@
 {
   "name": "cerebro-skyeng",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Cerebro plugin for English ⇄ Russian translation using API of skyeng.ru",
   "dependencies": {
     "cerebro-tools": "^0.1.8",
